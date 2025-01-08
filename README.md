@@ -1,4 +1,4 @@
-# DSAA-H-_SUSTech
+# DSAA H SUSTech
 
 CS217 DSAA(H) in SUSTech 2024 Autumn. Class slides ,homework and lab scripts.
 
